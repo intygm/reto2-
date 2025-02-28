@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Inscripciones>
+<Inscripcion>
+<Cliente id="11">
+<Nombre>inti27</Nombre>
+<Correo>int@email.com</Correo>
+<Telefono>2222333444</Telefono>
+</Cliente>
+<Coche>
+<Modelo>Toyota Corolla</Modelo>
+<Año>2020</Año>
+<PrecioDia>45.99</PrecioDia>
+</Coche>
+<Alquiler>
+<Dias>2</Dias>
+<PrecioTotal>91.98</PrecioTotal>
+<Fecha>2025-02-28 11:06:13.0</Fecha>
+</Alquiler>
+</Inscripcion>
+<Inscripcion>
+<Cliente id="10">
+<Nombre>arco</Nombre>
+<Correo>arco@email.com</Correo>
+<Telefono>111222333</Telefono>
+</Cliente>
+<Coche>
+<Modelo>BMW X5</Modelo>
+<Año>2023</Año>
+<PrecioDia>120.0</PrecioDia>
+</Coche>
+<Alquiler>
+<Dias>3</Dias>
+<PrecioTotal>360.0</PrecioTotal>
+<Fecha>2025-02-26 12:55:06.0</Fecha>
+</Alquiler>
+</Inscripcion>
+<Inscripcion>
+<Cliente id="9">
+<Nombre>julen</Nombre>
+<Correo>julen@email.com</Correo>
+<Telefono>555666333</Telefono>
+</Cliente>
+<Coche>
+<Modelo>Ford Mustang</Modelo>
+<Año>2021</Año>
+<PrecioDia>90.0</PrecioDia>
+</Coche>
+<Alquiler>
+<Dias>8</Dias>
+<PrecioTotal>720.0</PrecioTotal>
+<Fecha>2025-02-26 10:04:52.0</Fecha>
+</Alquiler>
+</Inscripcion>
+<Inscripcion>
+<Cliente id="2">
+<Nombre>paco</Nombre>
+<Correo>paco@email.com</Correo>
+<Telefono>333444555</Telefono>
+</Cliente>
+<Coche>
+<Modelo>Ford Mustang</Modelo>
+<Año>2021</Año>
+<PrecioDia>90.0</PrecioDia>
+</Coche>
+<Alquiler>
+<Dias>2</Dias>
+<PrecioTotal>180.0</PrecioTotal>
+<Fecha>2025-02-25 12:31:32.0</Fecha>
+</Alquiler>
+</Inscripcion>
+<Inscripcion>
+<Cliente id="1">
+<Nombre>Manolo</Nombre>
+<Correo>Manolo@email.com</Correo>
+<Telefono>666999888</Telefono>
+</Cliente>
+<Coche>
+<Modelo>Toyota Corolla</Modelo>
+<Año>2022</Año>
+<PrecioDia>40.0</PrecioDia>
+</Coche>
+<Alquiler>
+<Dias>5</Dias>
+<PrecioTotal>229.95</PrecioTotal>
+<Fecha>2025-02-24 12:48:24.0</Fecha>
+</Alquiler>
+</Inscripcion>
+</Inscripciones>
